@@ -2,8 +2,6 @@ name: Build RISC-V64
 
 on:
   push:
-    tags:
-      - "v*"
 
 jobs:
   build:
